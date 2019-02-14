@@ -1,5 +1,7 @@
 # Stock-Price-Analysis
 
+I am trying to predict stock prices by creating multivariate multimodal LSTM model. 
+
 Work In Progress...Keep Patience.
 
 
