@@ -1,4 +1,4 @@
-#Cryptocurrency Prediction using LSTM and GRU
+Cryptocurrency Prediction using LSTM and GRU
 
 A simple Bidirectional LSTM and GRU model to predict cyptocurrency written in Google Colab
 
